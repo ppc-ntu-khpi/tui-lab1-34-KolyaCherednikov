@@ -1,6 +1,6 @@
 # UI Lab 1
 
-https://github.com/ppc-ntu-khpi/tui-lab1-34-KolyaCherednikov/blob/master/Screenshot.png
+![Demo]https://github.com/ppc-ntu-khpi/tui-lab1-34-KolyaCherednikov/blob/master/Screenshot.png
 
 ## На "п'ять"
 1. Завантажте jar-файл Jexer з [cайту проекту](https://sourceforge.net/projects/jexer/files/latest/download) або з [цього ж репозиторію](https://github.com/liketaurus/TUI-Labs/blob/master/jars/jexer-0.3.0.jar)
